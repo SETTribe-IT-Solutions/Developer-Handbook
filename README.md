@@ -64,13 +64,13 @@ ajax/
 
 **Commit Message Format:**
 ```
-YourName/FeatureName
-YourName/FixDetails
+YourName_FeatureName
+YourName_FixDetails
 ```
 
 Examples:  
-- `Sarang/LoginPage`  
-- `Sarang/FixLoginIssue`  
+- `Sarang_LoginPage`  
+- `Sarang_FixLoginIssue`  
 
 ---
 
