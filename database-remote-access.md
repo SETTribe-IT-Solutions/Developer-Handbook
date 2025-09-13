@@ -70,7 +70,7 @@ Password: ********
 
 - If the MySQL JDBC driver is not present, DBeaver will prompt to download it. Click **Download**.
 
-![Driver download prompt](images/database-remote-access/mysql-driver-download.png)
+![Driver download prompt](images/database-remote-access/mysql-driver-download.jpg)
 
 - Advanced: open **Driver properties** to add SSL, timezone, or character set parameters if needed.
 
