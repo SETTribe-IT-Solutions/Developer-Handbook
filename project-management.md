@@ -28,21 +28,31 @@ Use prefixes to quickly identify task type:
 - **[Test]** → Testing/QA tasks  
 - **[Bug]** → Bug/defect tasks  
 - **[Suggestion]** → Ideas/improvements  
-- **[Feature]** → Full feature requiring FE + BE + DB  
+- **[Feature]** → Full feature requiring FE + BE + DB
+- **[Training]** → Project Training for client
+- **[Reminder]** → Follow-up or scheduled reminder tasks
+- **[Purchase]** → Payments, procurement, or subscription tasks
+- **[Video]** → Video creation/editing tasks
+- **[PPT]** → Presentation or user manual preparation tasks
 
 ✅ **Examples**:  
 - `[FE] Create Login Page`  
 - `[BE] Add DB Connection`  
 - `[Test] Test Login Functionality`  
 - `[Bug] Login page is not working as expected`  
-- `[Feature] Implement User Authentication`  
+- `[Feature] Implement User Authentication`
+- `[Training] Conduct Git Workflow Training Session`
+- `[Reminder] Follow up with client on project feedback (Friday 3 PM)`
+- `[Purchase] Renew SSL Certificate for domain`
+- `[Video] Create demo video for survey reporting tool`
+- `[PPT] Prepare project presentation for stakeholder meeting`
 
 ---
 
 ### 2.2 Labels
 Each task must have **2 types of labels**:
 
-- **Task Label** (what type of work) → UI/UX, BE, Test, Bug, Suggestion, Feature  
+- **Task Label** (what type of work) → UI/UX, BE, Test, Bug, Suggestion, Feature, Training, Remainder, Purchase, Video, PPT  
 - **Priority Label** (importance level):  
   - **P0** → Critical / must fix immediately  
   - **P1** → High priority  
