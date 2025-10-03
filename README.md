@@ -16,6 +16,7 @@ This repository defines the coding standards, best practices, and project workfl
 - [Coding Standards](#-coding-standards)
 - [Environment Setup](#️-environment-setup)
 - [DBeaver — Remote MySQL Database Handbook (step-by-step) Setup](./database-remote-access.md)
+- [WABA Account Verification Process](./waba-verification.md)
 - [Project & Task Management](./project-management.md)
 - [Onboarding Guide](#-onboarding-guide)
 - [Contribution Guidelines](#-contribution-guidelines)
