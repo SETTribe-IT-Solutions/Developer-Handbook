@@ -103,6 +103,9 @@ Examples:
 - Avoid hardcoding values – use constants or config files.
 - SQL queries should be formatted for readability.
 - Always sanitize inputs before database operations.
+- Implement file validation on both client side and server side.
+- Ensure proper field-level validation for all forms and inputs.
+- Passwords must be strong and hard to guess — always enforce strong password rules.
 
 ---
 
